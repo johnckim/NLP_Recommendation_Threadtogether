@@ -7,7 +7,7 @@ The goal of this project is to build a recommendation system that matches user i
 - Outfit combination list: outfit combinations curated by the subject matter expert stylist
 ![outfit](images/outfit_table.png)
 
-The users will specify an outfit type for the search (e.g. bottom, top, accessory, shoe, one-piece). The inputs can be either product ID or free-form text such as brand and description.
+The users will specify an outfit type for the search (e.g. bottom, top, accessory, shoe, one-piece) and the inputs can be either product ID or free-form text such as brand and description.
 
 ## Summary
 - If the user input is product ID, I find the corresponding product.
